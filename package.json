@@ -1,0 +1,7 @@
+{
+  "name": "@types/ioredis",
+  "version": "4.0.12",
+   "dependencies": {
+    "@types/node": "*"
+  }
+}
